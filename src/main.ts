@@ -4,6 +4,7 @@
  */
 
 console.log("🎮 CMPM 121 - Starting...");
+console.log("🐢");
 
 // Simple counter for demonstration
 let counter: number = 0;
